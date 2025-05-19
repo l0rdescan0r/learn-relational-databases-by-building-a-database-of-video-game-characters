@@ -76,3 +76,9 @@ psql --usernamefreecodeamp --dbname=postgres
 psql --usernamefreecodecamp --dbname=postgres
 psql --usernamefreecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+\c second_database
+\c second_database
+\c
+\c
+\d second_table
+psql --username=freecodecamp --dbname=postgres
